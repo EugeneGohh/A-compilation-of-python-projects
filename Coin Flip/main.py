@@ -5,7 +5,7 @@ head_count = 0
 tail_count = 0
 
 while int(initial_value) > 0:
-    x = input("Head or Tail?\n")
+    x = input("Head or Tail? \n")
     print("You choose " + x)
 
     shuffle = random.choice(["Head", "Tail"])
@@ -24,3 +24,4 @@ while int(initial_value) > 0:
         tail_count -= 1
 
     print("Head count is " + str(head_count) + " and " + " ," + "Tail count is " + str(tail_count))
+    initial_value = input("To play again type more than 1 else less than 0 \n")
