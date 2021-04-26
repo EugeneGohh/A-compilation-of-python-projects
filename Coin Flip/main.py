@@ -16,7 +16,7 @@ while int(initial_value) > 0:
     else: 
         print(x + " and " + shuffle + " are not the same")
 
-    if (x ==  shuffle):
+    if (x == shuffle):
         head_count += 1
         tail_count += 1
     else:
