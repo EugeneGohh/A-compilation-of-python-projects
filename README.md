@@ -1,4 +1,4 @@
-﻿# A-compilation-of-python-projects
+﻿# A-compilation-of-Python-projects
 
 ## Contents
 * [Info](#Info)<br>
