@@ -8,9 +8,15 @@
 ## Info
 Make a compilation of Python projects
 
-## Technologies-Used
+## Project's aim
+Enable others to learn Python with ease by creating projects
+
+## Technologies
 1. Python
 2. Git & GitHub
 
 ## Status
 - [ ] Project is ongoing
+
+## Contributing
+This repository is open for anyone who want to contribute to make a compilation of Python projects.
