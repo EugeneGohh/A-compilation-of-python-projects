@@ -2,8 +2,8 @@
 
 ## Contents
 * [Info](#Info)<br>
-* [Project's Aim](#Project's-Aim)<br>
-* [Technologies Used](#Technologies-Used)<br>
+* [Project's Aim](#Project's Aim)<br>
+* [Technologies Used](#Technologies)<br>
 * [Status](#Status)<br>
 
 ## Info
