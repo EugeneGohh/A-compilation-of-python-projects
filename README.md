@@ -2,13 +2,14 @@
 
 ## Contents
 * [Info](#Info)<br>
+* [Project's Aim](#Project's-Aim)<br>
 * [Technologies Used](#Technologies-Used)<br>
 * [Status](#Status)<br>
 
 ## Info
 Make a compilation of Python projects
 
-## Project's aim
+## Project's Aim
 Enable others to learn Python with ease by creating projects
 
 ## Technologies
