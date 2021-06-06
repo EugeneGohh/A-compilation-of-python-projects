@@ -16,8 +16,5 @@ Enable others to learn Python with ease by creating projects
 1. Python
 2. Git & GitHub
 
-## Status
-- [ ] Project is ongoing
-
 ## Contributing
 This repository is open for anyone who wants to contribute to make a compilation of Python projects.
