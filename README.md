@@ -4,7 +4,6 @@
 * [Info](#Info)<br>
 * [Project's Aim](#Aim)<br>
 * [Technologies Used](#Technologies)<br>
-* [Status](#Status)<br>
 
 ## Info
 Make a compilation of Python projects
